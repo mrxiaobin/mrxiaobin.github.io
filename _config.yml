@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 读书运动写代码
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "祝小斌"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://mrxiaobin.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " 祝小斌"
+  email: mrxiaobin2011@gmail.com
+  bio: " "
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -18,9 +18,9 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 
+github_username: mrxiaobin
+facebook_username: mrxiaobin2011
+weibo_username: 903048065
 zhihu_username: 
 
 # Build settings  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "祝小斌"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
