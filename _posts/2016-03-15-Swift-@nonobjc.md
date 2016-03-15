@@ -29,7 +29,9 @@ description:
     
 出现了这样的报错:Method with Objective-C selector conflicts with previous declaration with the same Objective-C selector
 [stackoverflow](http://stackoverflow.com/questions/29457720/compiler-error-method-with-objective-c-selector-conflicts-with-previous-declara)中同样的解答
+
 ### 提到的问题:
+
  1. The problem is UIViewController is an @objc class. When inheriting from UIViewController, BugViewController is also a @objc class.
  2. ObjC doesn't support method overloading (two methods with the same name) 
 
