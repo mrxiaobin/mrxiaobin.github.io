@@ -31,6 +31,7 @@ highlighter: rouge
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
@@ -46,6 +47,13 @@ defaults:
       author: "祝小斌"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
+# Comments 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : mrxiaobin
+  disqus :
+      short_name : mrxiaobin
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
