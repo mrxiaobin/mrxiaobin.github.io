@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
  - 祝小斌/男/1991 
  - 本科/武汉理工大学（2010/09 - 2014/06)
  - 硕士/华中师范大学（2014/09 - 2017/06）
- - 邮箱： [mrxiaobin2011@gmail.com](mrxiaobin2011@gmail.com)
+ - 邮箱： [mrxiaobin2011@gmail.com](mailto://mrxiaobin2011@gmail.com)
  - 个人博客： [https://ioser.me](https://ioser.me) 
  - Github： [https://github.com/mrxiaobin](https://github.com/mrxiaobin)
  - 期望职位：iOS开发、后台开发 
