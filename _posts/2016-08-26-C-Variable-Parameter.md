@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C语言可变参数
-date: 2016-5-23
+date: 2016-8-26
 categories: blog
 tags: [学习笔记,iOS,C]
 description: 
