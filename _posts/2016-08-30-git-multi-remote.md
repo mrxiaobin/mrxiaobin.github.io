@@ -19,6 +19,7 @@ origin 	git@git.oschina.net:mrxiaobin/StudyDemo.git (push)
 ```
 
 然后这样配置一下
+
 ```shell
 git remote set-url --add --push origin git@git.oschina.net:mrxiaobin/StudyDemo.git
 git remote set-url --add --push origin git@github.com:mrxiaobin/StudyDemo.git
