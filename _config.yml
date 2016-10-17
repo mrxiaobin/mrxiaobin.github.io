@@ -4,8 +4,9 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "祝小斌"  
 baseurl: ""
-url: "https://ioser.me"
-enforce_ssl: ioser.me
+url: "http://ioser.me"
+# url: "https://ioser.me"
+# enforce_ssl: ioser.me
 
 # About/contact
 owner: 
